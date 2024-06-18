@@ -71,3 +71,10 @@ button:hover > a{
     color: hsl(0, 0%, 8%);
     font-weight: 780;
 }
+
+
+@media screen and (max-width: 562px) {
+    .container{
+        margin: 50px ;
+    }
+}
